@@ -1,0 +1,5 @@
+.env
+notebook
+data/tokens/eth_price.csv
+data/tokens/ltc_price.csv
+data/tokens/xrp_price.csv
